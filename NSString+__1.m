@@ -5,7 +5,7 @@
 //  Created by student on 16/4/7.
 //  Copyright © 2016年 student. All rights reserved.
 //
-
+-------------------
 #import "NSString+__1.h"
 
 @implementation NSString (__1)
